@@ -42,6 +42,7 @@ RegisterNumber:212223040064
 
 
 **Truth Table:**
+
 ![2 1 truth table](https://github.com/user-attachments/assets/6a3f7a61-4175-4183-bb22-e91ce1e5bfea)
 ![2 2 truth table](https://github.com/user-attachments/assets/a94b9962-e99c-4028-a265-5c906cca8121)
 
