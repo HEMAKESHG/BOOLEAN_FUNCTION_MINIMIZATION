@@ -54,6 +54,7 @@ endmodule
 **Truth Table:**
 
 *F1*
+
 ![2 1 truth table](https://github.com/user-attachments/assets/6a3f7a61-4175-4183-bb22-e91ce1e5bfea)
 
 *F2*
