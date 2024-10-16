@@ -58,6 +58,7 @@ endmodule
 ![2 1 truth table](https://github.com/user-attachments/assets/6a3f7a61-4175-4183-bb22-e91ce1e5bfea)
 
 *F2*
+
 ![2 2 truth table](https://github.com/user-attachments/assets/a94b9962-e99c-4028-a265-5c906cca8121)
 
 
@@ -70,6 +71,7 @@ endmodule
 
 
 **Timing Diagram:**
+
 *F1*
 ![Screenshot 2024-09-13 095350](https://github.com/user-attachments/assets/1b416323-e578-499c-9147-a1f2514fbbcb)
 *F2*
