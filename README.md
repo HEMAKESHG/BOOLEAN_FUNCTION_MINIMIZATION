@@ -67,7 +67,8 @@ endmodule
 *F1*
 ![Screenshot 2024-09-13 093739](https://github.com/user-attachments/assets/14fd6235-76f8-4953-b16d-cb6df525c75e)
 *F2*
-![image](https://github.com/user-attachments/assets/3174f551-f14d-4b59-bb16-ed27e4436244)
+![image](https://github.com/user-attachments/assets/e48183a0-2f82-432d-86b7-556d8b32b9dd)
+
 
 
 **Timing Diagram:**
