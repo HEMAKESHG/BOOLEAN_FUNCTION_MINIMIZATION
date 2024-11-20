@@ -67,7 +67,8 @@ endmodule
 *F1*
 ![Screenshot 2024-09-13 093739](https://github.com/user-attachments/assets/14fd6235-76f8-4953-b16d-cb6df525c75e)
 *F2*
-![image](https://github.com/user-attachments/assets/e48183a0-2f82-432d-86b7-556d8b32b9dd)
+![WhatsApp Image 2024-11-20 at 10 31 32_285d90e8](https://github.com/user-attachments/assets/af0bd9cd-04f6-4617-9694-1db75e286f0a)
+
 
 
 
